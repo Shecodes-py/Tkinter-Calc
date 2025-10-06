@@ -4,7 +4,7 @@ A simple GUI-based calculator built using Python and Tkinter.
 It performs basic arithmetic operations like addition, subtraction, multiplication, and division — all through a clean, minimal interface.
 
 🚀 Features
-User-friendly interface
+User-friendly interface <br>
 Handles basic math operations
 Clear and responsive buttons
 Error handling for invalid operations
